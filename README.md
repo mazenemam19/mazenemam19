@@ -1,11 +1,11 @@
-# Hi there, I'm Mazen 👋
+# Hi there, I'm Mazen Emam 👋
 
 🚀 Software Engineer | Indie Hacker in the Making | TypeScript & React Enthusiast
 
 ---
 
 ### About Me
-- Passionate about making things that actually help people.
+- Passionate about making things that help people.
 - Always learning, improving, and pushing the limits of what I can build.
 - Focused on building modern, scalable, and user-friendly front-end experiences.
 
@@ -18,11 +18,10 @@
 ---
 
 ### Let's Connect 🚀
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mazenadel19)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mazenadel19)
-[![Personal Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mazenadel19.vercel.app)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mazenadel19@gmail.com)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mazenemam19)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mazenemam19)
+[![Personal Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mazenemam19.vercel.app)
+[![Proton Mail](https://img.shields.io/badge/Proton%20Mail-6D4AFF?logo=protonmail&logoColor=fff)](mailto:mazenemam19@proton.me)
 ---
 
 💡 *Currently brainstorming my next big thing. Got an idea? Let’s talk!*
